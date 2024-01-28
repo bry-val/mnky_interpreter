@@ -8,6 +8,7 @@ type Token struct {
 }
 
 const (
+	// Special Type
 	ILLEGAL = "ILLEGAL"
 	EOF     = "EOF"
 
